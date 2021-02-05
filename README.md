@@ -1,2 +1,0 @@
-# GNN
-graph neural networks
